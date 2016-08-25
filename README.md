@@ -1,4 +1,4 @@
-# test-app-angular2
+# angular2-webpack
 
 ## start
 `npm start`
